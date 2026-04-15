@@ -1,0 +1,130 @@
+﻿[
+	{
+		"timestamp": "2026-04-14T08:30:00",
+		"accion": "llegada_paciente",
+		"paciente_id": 1048
+	},
+	{
+		"timestamp": "2026-04-14T08:45:00",
+		"accion": "fin_consulta",
+		"paciente_id": 1048
+	},
+	{
+		"timestamp": "2026-04-14T09:05:00",
+		"accion": "observacion_clinica",
+		"paciente_id": 1048
+	},
+	{
+		"timestamp": "2026-04-14T09:20:00",
+		"accion": "prueba_diagnostica",
+		"paciente_id": 1048
+	},
+	{
+		"timestamp": "2026-04-14T09:40:00",
+		"accion": "fin_consulta",
+		"paciente_id": 1048
+	},
+
+	{
+		"timestamp": "2026-04-14T09:15:00",
+		"accion": "llegada_paciente",
+		"paciente_id": 1049
+	},
+	{
+		"timestamp": "2026-04-14T08:45:00",
+		"accion": "inicio_consulta",
+		"paciente_id": 1049
+	},
+	{
+		"timestamp": "2026-04-14T09:55:00",
+		"accion": "prueba_diagnostica",
+		"paciente_id": 1049
+	},
+	{
+		"timestamp": "2026-04-14T10:10:00",
+		"accion": "observacion_clinica",
+		"paciente_id": 1049
+	},
+	{
+		"timestamp": "2026-04-14T10:25:00",
+		"accion": "fin_consulta",
+		"paciente_id": 1049
+	},
+	{
+		"timestamp": "2026-04-14T11:00:00",
+		"accion": "llegada_paciente",
+		"paciente_id": 1050
+	},
+	{
+		"timestamp": "2026-04-14T10:40:00",
+		"accion": "llegada_paciente",
+		"paciente_id": 1050
+	},
+	{
+		"timestamp": "2026-04-14T11:20:00",
+		"accion": "observacion_clinica",
+		"paciente_id": 1050
+	},
+	{
+		"timestamp": "2026-04-14T11:35:00",
+		"accion": "prueba_diagnostica",
+		"paciente_id": 1050
+	},
+	{
+		"timestamp": "2026-04-14T11:55:00",
+		"accion": "fin_consulta",
+		"paciente_id": 1050
+	},
+
+	{
+		"timestamp": "2026-04-15T13:10:00",
+		"accion": "llegada_paciente",
+		"paciente_id": 1051
+	},
+	{
+		"timestamp": "2026-04-15T13:25:00",
+		"accion": "inicio_consulta",
+		"paciente_id": 1051
+	},
+	{
+		"timestamp": "2026-04-15T13:45:00",
+		"accion": "observacion_clinica",
+		"paciente_id": 1051
+	},
+	{
+		"timestamp": "2026-04-15T14:05:00",
+		"accion": "prueba_diagnostica",
+		"paciente_id": 1051
+	},
+	{
+		"timestamp": "2026-04-15T14:30:00",
+		"accion": "fin_consulta",
+		"paciente_id": 1051
+	},
+
+	{
+		"timestamp": "2026-04-14T16:10:00",
+		"accion": "inicio_consulta",
+		"paciente_id": 1052
+	},
+	{
+		"timestamp": "2026-04-14T15:50:00",
+		"accion": "llegada_paciente",
+		"paciente_id": 1052
+	},
+	{
+		"timestamp": "2026-04-14T16:30:00",
+		"accion": "prueba_diagnostica",
+		"paciente_id": 1052
+	},
+	{
+		"timestamp": "2026-04-14T16:45:00",
+		"accion": "observacion_clinica",
+		"paciente_id": 1052
+	},
+	{
+		"timestamp": "2026-04-14T17:05:00",
+		"accion": "fin_consulta",
+		"paciente_id": 1052
+	}
+]

@@ -1,0 +1,15 @@
+C:\Users\cchocarro\Desktop\RETO .NET BSD\ActividadClinica\ActividadClinica\bin\Debug\net10.0\Datos\Datos.json
+C:\Users\cchocarro\Desktop\RETO .NET BSD\ActividadClinica\ActividadClinica\bin\Debug\net10.0\ActividadClinica.exe
+C:\Users\cchocarro\Desktop\RETO .NET BSD\ActividadClinica\ActividadClinica\bin\Debug\net10.0\ActividadClinica.deps.json
+C:\Users\cchocarro\Desktop\RETO .NET BSD\ActividadClinica\ActividadClinica\bin\Debug\net10.0\ActividadClinica.runtimeconfig.json
+C:\Users\cchocarro\Desktop\RETO .NET BSD\ActividadClinica\ActividadClinica\bin\Debug\net10.0\ActividadClinica.dll
+C:\Users\cchocarro\Desktop\RETO .NET BSD\ActividadClinica\ActividadClinica\bin\Debug\net10.0\ActividadClinica.pdb
+C:\Users\cchocarro\Desktop\RETO .NET BSD\ActividadClinica\ActividadClinica\obj\Debug\net10.0\ActividadClinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cchocarro\Desktop\RETO .NET BSD\ActividadClinica\ActividadClinica\obj\Debug\net10.0\ActividadClinica.AssemblyInfoInputs.cache
+C:\Users\cchocarro\Desktop\RETO .NET BSD\ActividadClinica\ActividadClinica\obj\Debug\net10.0\ActividadClinica.AssemblyInfo.cs
+C:\Users\cchocarro\Desktop\RETO .NET BSD\ActividadClinica\ActividadClinica\obj\Debug\net10.0\ActividadClinica.csproj.CoreCompileInputs.cache
+C:\Users\cchocarro\Desktop\RETO .NET BSD\ActividadClinica\ActividadClinica\obj\Debug\net10.0\ActividadClinica.dll
+C:\Users\cchocarro\Desktop\RETO .NET BSD\ActividadClinica\ActividadClinica\obj\Debug\net10.0\refint\ActividadClinica.dll
+C:\Users\cchocarro\Desktop\RETO .NET BSD\ActividadClinica\ActividadClinica\obj\Debug\net10.0\ActividadClinica.pdb
+C:\Users\cchocarro\Desktop\RETO .NET BSD\ActividadClinica\ActividadClinica\obj\Debug\net10.0\ActividadClinica.genruntimeconfig.cache
+C:\Users\cchocarro\Desktop\RETO .NET BSD\ActividadClinica\ActividadClinica\obj\Debug\net10.0\ref\ActividadClinica.dll

@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ActividadClinica/ActividadClinica.csproj" />
+  <Project Path="ActividadClinicaTest/ActividadClinicaTest.csproj" />
+</Solution>

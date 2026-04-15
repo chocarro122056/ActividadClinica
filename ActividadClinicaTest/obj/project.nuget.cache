@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "IelWeDNQGsg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cchocarro\\Desktop\\RETO .NET BSD\\ActividadClinica\\ActividadClinicaTest\\ActividadClinicaTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cchocarro\\.nuget\\packages\\microsoft.codecoverage\\17.13.0\\microsoft.codecoverage.17.13.0.nupkg.sha512",
+    "C:\\Users\\cchocarro\\.nuget\\packages\\microsoft.net.test.sdk\\17.13.0\\microsoft.net.test.sdk.17.13.0.nupkg.sha512",
+    "C:\\Users\\cchocarro\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.13.0\\microsoft.testplatform.objectmodel.17.13.0.nupkg.sha512",
+    "C:\\Users\\cchocarro\\.nuget\\packages\\microsoft.testplatform.testhost\\17.13.0\\microsoft.testplatform.testhost.17.13.0.nupkg.sha512",
+    "C:\\Users\\cchocarro\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\cchocarro\\.nuget\\packages\\nunit\\4.5.1\\nunit.4.5.1.nupkg.sha512",
+    "C:\\Users\\cchocarro\\.nuget\\packages\\nunit.analyzers\\4.5.0\\nunit.analyzers.4.5.0.nupkg.sha512",
+    "C:\\Users\\cchocarro\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
